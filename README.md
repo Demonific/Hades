@@ -3,6 +3,8 @@ In time there could be a chance for it to become something incredibly useful.
 
 - Quick start guide:
 
+Link to the application: linserte.me so you can test it out
+
 I'm not going to lie I'm not quite sure how to exactly install this piece of software on your own computer 
 but what I can tell to you about is I learned how to do it on this amazing course by Tero Karvinen @ Terokarvinen.com
 
